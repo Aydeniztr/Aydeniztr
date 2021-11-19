@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead](https://64.media.tumblr.com/34f4d9266b985383daa558349e37d2ea/tumblr_n0konao2Ik1sso6sco1_500.gifv)](https://github.com/Aydeniztr)
+[![MasterHead](https://media.discordapp.net/attachments/728923218001264684/850319348320043068/image1.png)
 - 🔭 I’m currently working on my own website
 - 🌱 I’m currently learning "c" and "sh"
 - 👯 I’m looking to collaborate on my projects (or just asking questions about to better my projects)
