@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aydeniztr&theme=buefy-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!--
 
 **Aydeniztr/Aydeniztr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
