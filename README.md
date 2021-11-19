@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)]
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 ![MasterHead](https://media.discordapp.net/attachments/728923218001264684/850319348320043068/image1.png)
 - 🔭 I’m currently working on my own website
 - 🌱 I’m currently learning "c" and "sh"
