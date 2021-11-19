@@ -1,9 +1,4 @@
 ### Hi there 👋
-
-<!--
-**Aydeniztr/Aydeniztr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/895566413991915560/911008992870940672/vapor1633821346682.gif">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +8,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<!--
+
+**Aydeniztr/Aydeniztr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+ 
+
 -->
