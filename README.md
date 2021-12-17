@@ -3,7 +3,7 @@
 ![MasterHead](https://media.discordapp.net/attachments/728923218001264684/850319348320043068/image1.png)
 - 🔭 I’m currently working on my own website
 - 🌱 I’m currently learning "c" and "sh"
-- 👯 I’m looking to collaborate on my projects (or just asking questions about to better my projects)
+- 👯 I’m looking to collaborate on my projects
 - 🤔 I’m looking for help with learning c++ 
 - 💬 Ask me about linux,static-websites
 - 📫 How to reach me: discord >> aydeniztr#6505
