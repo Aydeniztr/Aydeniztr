@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![MasterHead](https://media.discordapp.net/attachments/728923218001264684/850319348320043068/image1.png)
-![$](https://github-readme-stats.vercel.app/api?username=Aydeniztr&show_icons=true&theme=tokyonight&hide_border)
+![$](https://github-readme-stats.vercel.app/api?username=Aydeniztr&hide_border&show_icons=true&theme=tokyonight)
 
 - I’m currently working on my own website
 - I’m currently learning "c" and "sh"
