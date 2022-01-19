@@ -10,8 +10,6 @@
 - Ask me about linux,static-websites
 - How to reach me: discord >> aydeniztr#6505
 
-[_News_]()
-
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mv4d4jgmfruly4n4nuqxya2iuy&width=1000&count=4)
 
 <!--
