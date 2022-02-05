@@ -6,7 +6,7 @@
 - I’m currently working on my own website
 - I’m currently learning "c" and "sh"
 - I’m looking to collaborate on my projects
-- I’m looking for help with learning c 
+- I’m looking for help with learning c++
 - Ask me about linux,static-websites
 - How to reach me: discord >> aydeniztr#6505
 
