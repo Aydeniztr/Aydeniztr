@@ -20,6 +20,3 @@ Here are some ideas to get you started:
  
 
 -->
-
-
-## some of the repos are not available for a week here is the repo list!
