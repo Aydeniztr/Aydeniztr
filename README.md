@@ -23,4 +23,3 @@ Here are some ideas to get you started:
 
 
 ## some of the repos are not available for a week here is the repo list!
-![some_of_repos_are_not_available](https://raw.githubusercontent.com/Aydeniztr/Aydeniztr/main/Screenshot_20220208-195544_Samsung%20Internet.jpg)
