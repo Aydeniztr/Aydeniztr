@@ -13,7 +13,7 @@
 - How to reach me: discord >> aydeniztr#6505
 
 ![$](https://github-readme-stats.vercel.app/api?username=Aydeniztr&hide_border=true&show_icons=true&theme=tokyonight)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mv4d4jgmfruly4n4nuqxya2iuy&width=500&count=4)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mv4d4jgmfruly4n4nuqxya2iuy&width=400&count=4)
 <!--
 
 **Aydeniztr/Aydeniztr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
