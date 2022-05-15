@@ -8,6 +8,7 @@
 - How to reach me: discord >> aydeniztr#6505
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mv4d4jgmfruly4n4nuqxya2iuy&width=1000&count=4)
+![$](https://github-readme-stats.vercel.app/api?username=Aydeniztr&hide_border=true&show_icons=true&theme=tokyonight)
 
 <!--
 
