@@ -8,7 +8,6 @@
 - How to reach me: discord >> aydeniztr#6505
 
 ![$](https://github-readme-stats.vercel.app/api?username=Aydeniztr&hide_border=true&show_icons=true&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aydeniztr&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aydeniztr&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aydeniztr&theme=tokyonight)
 
