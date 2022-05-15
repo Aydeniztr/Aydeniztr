@@ -1,3 +1,6 @@
+<img src="https://github.com/Aydeniztr/Aydeniztr/blob/main/AF017CC3-71BB-47C6-AD3A-0DCCB9FF576A.gif?raw=true">
+
+
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Aydeniztr.Aydeniztr&color=00cf00)
 
 ### Hi there
