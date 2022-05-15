@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Aydeniztr.Aydeniztr&color=00cf00)
+
 ### Hi there 👋
 
 - I’m currently working on my own website
