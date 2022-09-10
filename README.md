@@ -12,6 +12,8 @@
 - Ask me about linux,static-websites
 - How to reach me: discord >> aydeniztr#6505
 
+<a href="https://h7duukfoy2wx7e2d16ms3a.on.drv.tw/project.lounge/">a basic game I made</a>
+
 ![$](https://github-readme-stats.vercel.app/api?username=Aydeniztr&hide_border=true&show_icons=true&theme=tokyonight)
 <!--
 
