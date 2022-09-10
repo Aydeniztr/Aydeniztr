@@ -14,9 +14,9 @@
 
 <center>
 
-<a href="https://h7duukfoy2wx7e2d16ms3a.on.drv.tw/project.lounge/">[Chemist] a basic game I made</a>
+<a href="https://h7duukfoy2wx7e2d16ms3a.on.drv.tw/project.lounge/">[Chemist]  a basic game I made</a>
 <br>
-<a href="https://h7duukfoy2wx7e2d16ms3a.on.drv.tw/project.lounge/">[free-man.ga] a basic forum  wesite I made</a>
+<a href="https://h7duukfoy2wx7e2d16ms3a.on.drv.tw/project.lounge/">[free-man.ga]  a basic forum  wesite I made</a>
 
 </center>
 
