@@ -13,7 +13,7 @@
 - How to reach me: discord >> aydeniztr#6505
 
 <center>
-<a href="https://h7duukfoy2wx7e2d16ms3a.on.drv.tw/project.lounge/fast-imdb/">an imdb-frontend I made<a/>
+<a href="https://h7duukfoy2wx7e2d16ms3a.on.drv.tw/project.lounge/fast-imdb/">[fast-imdb]an imdb-frontend I made<a/>
 <br>
 <a href="https://h7duukfoy2wx7e2d16ms3a.on.drv.tw/project.lounge/Chemist/">[Chemist]  a basic game I made</a>
 <br>
