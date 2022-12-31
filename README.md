@@ -16,9 +16,13 @@
 <br>
 <a href="https://free-man.ga">[free-man.ga]  a basic forum  website I made</a>
 
+<br>
+<br>
 </center>
 
 ![$](https://github-readme-stats.vercel.app/api?username=Aydeniztr&hide_border=true&show_icons=true&theme=tokyonight)
+
+
 <!--
 
 **Aydeniztr/Aydeniztr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
