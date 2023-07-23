@@ -2,12 +2,10 @@
 
 ### Hi there
 
-- I’m currently working on my own website
 - I’m currently learning "networking for real in c"
 - I’m looking to collaborate on my projects
-- I’m looking for help with learning c++
-- Ask me about linux,static-websites
-- How to reach me: discord >> aydeniztr#6505
+- Ask me about linux, web, sys/sockets, low level request handling
+- telegram >> https://t.me/Aydeniztr discord >> aydeniztr#6505
 
 <center>
 <a href="https://h7duukfoy2wx7e2d16ms3a.on.drv.tw/project.lounge/fast-imdb/"> [fast-imdb]an imdb-frontend I made<a/>
