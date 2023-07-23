@@ -3,7 +3,7 @@
 ### Hi there
 
 - I’m currently working on my own website
-- I’m currently learning "c" and "sh"
+- I’m currently learning "networking for real in c"
 - I’m looking to collaborate on my projects
 - I’m looking for help with learning c++
 - Ask me about linux,static-websites
