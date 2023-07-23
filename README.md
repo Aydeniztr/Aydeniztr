@@ -8,7 +8,7 @@
 - telegram >> https://t.me/Aydeniztr discord >> aydeniztr#6505
 
 
-![$](https://github-readme-stats.vercel.app/api?username=Aydeniztr&hide_border=true&show_icons=true&theme=tokyonight)
+
 
 
 <!--
