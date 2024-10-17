@@ -3,4 +3,4 @@
 ### Hi there
 
 - Ask me about linux, unix, web, sys/sockets, low level request handling
-- telegram >> https://t.me/Aydeniztr
+- telegram https://t.me/Aydeniztr
