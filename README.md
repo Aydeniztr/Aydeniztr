@@ -4,3 +4,5 @@
 
 - Ask me about linux, unix, web, sys/sockets, low level request handling
 - telegram https://t.me/Aydeniztr
+- blog https://aydeniztr.blog-dff.pages.dev/
+- portfolio website https://aydeniztr.portofolio-b3u.pages.dev/
